@@ -28,6 +28,12 @@
   
   -> Once the package is installed, it will appear in your project and you can start using it.
   
+  
+# Unity version
+ Current unity versions up to date are 2021.1,2020.3 LTS,2019.4.LTS.
+ 
+  I already worked with unity so I had the version of 2020.3.41f1.
+  
  # Usage
    When the W key is pressed the character starts walking.
    
@@ -37,10 +43,13 @@
    
    Pressing the W key and Space bar key allows to jump the character while running.
    
-# Unity version
- Current unity versions up to date are 2021.1,2020.3 LTS,2019.4.LTS.
- 
-  I already worked with unity so I had the version of 2020.3.41f1.
+# Future Outcomes
+   I completed this project using FBX model.However,in future I planned to use GLTF models instaed.
+   
+   Further,I plan to update my assignment to include more interactive elements and colorful game design, as well as expand the size and detail of the surrounding environment.
+
+
+
 
 # Ouput
 https://user-images.githubusercontent.com/103157704/226114709-4f848f72-8867-4902-bb25-4ddf78729784.mp4
